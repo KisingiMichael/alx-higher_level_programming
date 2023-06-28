@@ -5,7 +5,7 @@
 class Square:
     """ constructor """
     def __init__(self, size=0):
-        """Initialize a square class 
+        """Initialize a square class
         Args: size =0
         """
         if type(size) is not int:
